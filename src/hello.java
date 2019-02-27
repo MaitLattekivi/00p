@@ -1,81 +1,52 @@
 public class hello {
     public static void main(String[] args) {
-        System.out.println("We're no strangers to love
-You know the rules and so do I
-A full commitment's what I'm thinking of
-You wouldn't get this from any other guy
-
-I just wanna tell you how I'm feeling
-Gotta make you understand
-
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
-
-We've known each other for so long
-Your heart's been aching, but
-You're too shy to say it
-Inside, we both know what's been going on
-We know the game and we're gonna play it
-
-And if you ask me how I'm feeling
-Don't tell me you're too blind to see
-
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
-
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
-
-(Ooh, give you up)
-(Ooh, give you up)
-Never gonna give, never gonna give
-(Give you up)
-Never gonna give, never gonna give
-(Give you up)
-
-We've known each other for so long
-Your heart's been aching, but
-You're too shy to say it
-Inside, we both know what's been going on
-We know the game and we're gonna play it
-
-I just wanna tell you how I'm feeling
-Gotta make you understand
-
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
-
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
-
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
-
-
-");
+        System.out.println("Paljajalu jooksen kodu kruusa peal, aye
+Oksapüss teeb piuh-piuh puusa peal, aye
+Ronisime neljakesi männipuul
+Ema karjub, et me tuleks alla männipuult
+Loomad-linnud, sama suured sääsed
+Pinisevad, minu käest ei pääse nad
+Laks-laks õnnelikult metsa sees
+Mulle ei ole palju vaja olen metsamees
+Ya metsamees ya ya metsamees
+Ya metsamees ya ya metsamees
+Mulle ei ole palju vaja olen metsamees
+Ya metsamees ya ya ya ya
+Tiigi ääres päike, kiki miki
+Küll ma olin alles väike, kiki miki
+Ja mu tunne oli hea, kiki miki
+Kooli minema ei pea, kiki miki
+Kett sai uue läike, kiki miki
+Ja rattal polnud käike, kiki miki
+Ja kui vihma sadas alla, kiki miki
+Pole midagi, las kallab, kiki miki
+Tamme otsas köiega mind kiiguta, aye
+Tuul käib kerest läbi, magu liigutab, aye
+Mängisime neljakesi tiigivees
+Ema karjub tulge välja tiigiveest
+Võta rätik kivi pealt, kui vabu on, mh ya
+Tantsi porilombi sees, kui sadu on, mh ya
+Sunniti meid müüma maja tagasi
+Kaksteist aastat hiljem ostsin sama maja tagasi
+Ya tagasi, ya ya tagasi
+Ya tagasi, ya ya tagasi
+Kaksteist aastat hiljem ostsin sama maja tagasi
+Ya tagasi, ya ya ya ya
+Tiigi ääres päike, kiki miki
+Küll ma olin alles väike, kiki miki
+Ja mu tunne oli hea, kiki miki
+Kooli minema ei pea, kiki miki
+Kett sai uue läike, kiki miki
+Ja rattal polnud käike, kiki miki
+Ja kui vihma sadas alla, kiki miki
+Pole midagi, las kallab, kiki miki
+Tiigi ääres päike, kiki miki
+Küll ma olin alles väike, kiki miki
+Ja mu tunne oli hea, kiki miki
+Kooli minema ei pea, kiki miki
+Kett sai uue läike, kiki miki
+Ja rattal polnud käike, kiki miki
+Ja kui vihma sadas alla, kiki miki
+Pole midagi, las kallab, kiki miki");
     }
 }
